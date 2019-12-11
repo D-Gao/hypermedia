@@ -1,0 +1,32 @@
+[
+        {
+            "serviceId": "s001",
+            "name": "Cataract surgery",
+            "description": "Cataract surgery is a procedure to remove the lens of your eye and, in most cases, replace it with an artificial lens. Normally, the lens of your eye is clear. A cataract causes the lens to become cloudy, which eventually affects your vision. Cataract surgery is performed by an eye doctor (ophthalmologist) on an outpatient basis, which means you don't have to stay in the hospital after the surgery. Cataract surgery can be done traditionally using ultrasound energy to remove the cloudy lens or it can be removed with laser-assisted technology. Cataract surgery is very common and is generally a safe procedure.",
+            "doctor_responsible": "d001"
+        },
+        {
+            "serviceId": "s002",
+            "name": "Anorectal function testing",
+            "description": "Anorectal function testing, including evaluation of constipation and fecal incontinence. Though occasional constipation is very common, some people experience chronic constipation that can interfere with their ability to go about their daily tasks. Chronic constipation may also cause excessive straining to have a bowel movement and other signs and symptoms. Fecal incontinence is the inability to control bowel movements, causing stool (feces) to leak unexpectedly from the rectum. Also called bowel incontinence, fecal incontinence ranges from an occasional leakage of stool while passing gas to a complete loss of bowel control.",
+            "doctor_responsible": "d002"
+        },
+        {
+            "serviceId": "s003",
+            "name": "Clinical nutrition",
+            "description": "Clinical nutrition is nutrition of patients in health care. Clinical in this sense refers to the management of patients, including not only outpatients at clinics, but also (and mainly) inpatients in hospitals. It incorporates primarily the scientific fields of nutrition and dietetics. It aims to keep a healthy energy balance in patients, as well as providing sufficient amounts other nutrients such as protein, vitamins, minerals.",
+            "doctor_responsible": "d003"
+        },
+        {
+            "serviceId": "s004",
+            "name": "Diseases of the pancreas",
+            "description": "The pancreas is a large gland behind the stomach and next to the small intestine. The pancreas does two main things: It releases powerful digestive enzymes into the small intestine to aid the digestion of food. It releases the hormones insulin and glucagon into the bloodstream. These hormones help the body control how it uses food for energy. Pancreatitis is a disease in which the pancreas becomes inflamed. Pancreatic damage happens when the digestive enzymes are activated before they are released into the small intestine and begin attacking the pancreas.",
+            "doctor_responsible": "d004"
+        },
+        {
+            "serviceId": "s005",
+            "name": "Laser eye surgery",
+            "description": "Laser eye surgery reshapes the transparent dome-shaped structure in the front of your eye (cornea) to correct vision problems (refractive errors). Laser eye surgery is a permanent change that reduces or eliminates your need to wear glasses or contact lenses.",
+            "doctor_responsible": "d005"
+        }
+]

@@ -1,0 +1,42 @@
+ [
+     {
+        "serviceId": "s001",
+        "doctorId": "d001"
+     },
+     {
+        "serviceId": "s001",
+        "doctorId": "d006"
+     },
+     {
+        "serviceId": "s002",
+        "doctorId": "d002"
+     },
+     {
+        "serviceId": "s002",
+        "doctorId": "d007"
+     },
+     {
+        "serviceId": "s003",
+        "doctorId": "d003"
+     },
+     {
+        "serviceId": "s003",
+        "doctorId": "d008"
+     },
+     {
+        "serviceId": "s004",
+        "doctorId": "d004"
+     },
+     {
+        "serviceId": "s004",
+        "doctorId": "d009"
+     },
+     {
+        "serviceId": "s005",
+        "doctorId": "d005"
+     },
+     {
+        "serviceId": "s005",
+        "doctorId": "d010"
+     }
+]

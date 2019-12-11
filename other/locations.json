@@ -1,0 +1,31 @@
+[
+    {
+        "locationId": "l001",
+        "city": "Milano",
+        "adress": "Via Conteverde n.21, Milano CAP 20111 ",
+        "phone_number": "+39 02 0374 1268 ",
+        "e_mail": "info@hyperclinicmilano.it ",
+        "hour": "08.00 - 12.00 and 13.00 - 17.00 ",
+        "picture": "assets/images/l001.png"
+    },
+    {
+        "locationId": "l002",
+        "city": "Bologna",
+        "adress": "Via Amadeo n.15, Bologna CAP 20345 ",
+        "phone_number": "+39 02 0458 1360 ",
+        "e_mail": "info@hyperclinicbologna.it ",
+        "hour": "08.00 - 12.00 and 13.00 - 17.00 ",
+        "picture": "assets/images/l002.png"
+    },
+    {
+        "locationId": "l003",
+        "city": "Roma",
+        "adress": "Piazza del Colosseo, Roma CAP 00184 ",
+        "phone_number": "+39 02 0368 3970 ",
+        "e_mail": "info@hyperclinicroma.it ",
+        "hour": "08.00 - 12.00 and 13.00 - 17.00 ",
+        "picture": "assets/images/l003.png"
+    }
+]
+    
+   

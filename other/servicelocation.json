@@ -1,0 +1,42 @@
+[
+    {
+        "serviceId": "s001",
+        "locationId": "l001"
+    },
+    {
+        "serviceId": "s002",
+        "locationId": "l002"
+    },
+    {
+        "serviceId": "s003",
+        "locationId": "l003"
+    },
+    {
+        "serviceId": "s004",
+        "locationId": "l001"
+    },
+    {
+        "serviceId": "s005",
+        "locationId": "l002"
+    },
+    {
+        "serviceId": "s001",
+        "locationId": "l003"
+    },
+    {
+        "serviceId": "s002",
+        "locationId": "l001"
+    },
+    {
+        "serviceId": "s003",
+        "locationId": "l002"
+    },
+    {
+        "serviceId": "s004",
+        "locationId": "l003"
+    },
+    {
+        "serviceId": "s005",
+        "locationId": "l001"
+    }
+]

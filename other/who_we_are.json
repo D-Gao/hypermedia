@@ -1,0 +1,26 @@
+[
+    {
+        "whoweareId": "w001",
+        "title": "About us",
+        "picture": "assets/images/w001.jpg",
+        "description": "Established in 1994,the HYPERCLINIC provides a comprehensive range of health services, functioning as a one-stop health center providing treatment for acute medical conditions, management of chronic diseases. The focus of HYPERCLINIC is on health promotion and disease prevention, early and accurate diagnosis, disease management.<br>It’s a departure in health care philosophy that has attracted some of the area’s most respected physicians. And a difference you’ll feel the moment you walk through the door.<br> 30 top primary care and specialty physicians and advanced practice clinicians. One of the largest multi-specialty clinics in Italy.<br> 5 locations including Milan and Rome."
+    },
+    {
+        "whoweareId": "w002",
+        "title": "Our ideology",
+        "picture": "assets/images/w002.jpg",
+        "description": "Working together to achieve excellence.<br><br> We value all patients equally; putting their needs first, reassuring them with our calm, confident, competent care & always protecting them from harm.<br><br> The vision is the improvement & innovation – always aiming higher, understanding your needs.<br> Partnership with the community – inspiring confidence in our care.<br><br> We have many gaols:<br><ul><li> Accessible world-class treatment.<br> </li> <li>Internationally recognised high quality care.<br></li> <li>Patient-centred treatment in relevant specialties.</li> </ul>"
+    },
+    {
+        "whoweareId": "w003",
+        "title": "Our misssion",
+        "picture": "assets/images/w003.jpg",
+        "description": "Our mission is to promote the health of our patients with personalized care. We will improve health and reduce illness through patient-centered quality primary healthcare that is accessible, seamless, comprehensive, appropriate and cost-effective in an environment of continuous learning and relevant research."
+    },
+    {
+        "whoweareId": "w004",
+        "title": "Contact us",
+        "picture": "assets/images/w004.jpg",
+        "description": "If you are experiencing a medical emergency, please call 118 or go to your nearest emergency room.<br><br> For any information, you can contact us:<br><br> <ul> <li> by phone, calling the number +39 02 2432 1002 and following the guiding voice to select the location of your interest and the kind of information you need. Remember that our phone service is operated from 8 AM - 5 PM, Monday through Friday, except Wednesday, which we start phone service at 9 AM.<br><br></li> <li> by e-mail, write to info@hyperclinic.it. Remeber to specify an object on your e-mail so we can be able to see your message and reply it.<br><br></li> <li> by filling the following form and send us your requests.</li> </ul>"
+    }
+]

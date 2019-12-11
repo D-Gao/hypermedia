@@ -1,0 +1,93 @@
+[
+        {
+            "doctorId": "d001",
+            "first_name": "Dr. Taylor",
+            "last_name": "Riccio",
+            "profile": "Doctor Riccio graduated from the Medical College of Wisconsin in Milwaukee, Wis., and completed his ophthalmology residency at the University of North Carolina, where he served as Chief Resident his final year. He completed a cornea fellowship at the University of Florida which included specialized training in cornea and refractive surgery.",
+            "specialities": "s001",
+            "picture": "assets/images/d001.png",
+            "ages_treated": "Adults from 19 - 30"
+        },
+        {
+            "doctorId": "d002",
+            "first_name": "Dr. Brown",
+            "last_name": "Albright",
+            "profile": "Graduated from the UMDS Guy's and St Thomas's Hospital, London. Surgical training programmes in Cambridge and London. Awarded an MRC Clinical fellowship researching in pelvic floor dysfunction. Carried out further sub-specialist colorectal training fellowships to Sydney, Paris and St Mark's Hospital.</br> Specialist expertise in complex colorectal diseases, including colorectal cancer, Crohn's Disease, Ulcerative colitis, enterocutaneous fistula, complex anal fistula, anorectal and pelvic floor problems (incontinence, evacuatory difficulty, constipation) and pelvic floor reconstruction.",
+            "specialities": "s002",
+            "picture": "assets/images/d002.png",
+            "ages_treated": "Adults from 20 - 40"
+        },
+        {
+            "doctorId": "d003",
+            "first_name": "Dr. Alex",
+            "last_name": "Morgan",
+            "profile": "Dr Alex Morgan is a Consultant Physician in Diabetes and Endocrinology at University College London Hospital and Honorary Senior Lecturer in the Department of Medicine at UCL. She graduated from Humboldt University, Berlin in 1990 and undertook her Specialist Training in London. She was awarded the MD for the thesis on “Insulin resistance and endothelial function in health and type 2 diabetes”.",
+            "specialities": "s003",
+            "picture": "assets/images/d003.png",
+            "ages_treated": "Adults from 30 - 50"
+        },
+        {
+            "doctorId": "d004",
+            "first_name": "Dr. Fernando",
+            "last_name": "Agnelli",
+            "profile": "Fernando Agnelli is Professor of Liver and Pancreas Surgery at the Barts Cancer Institute, Queen Mary, University of London. He is also Consultant Surgeon at the Royal London and St Bartholomew’s Hospitals. </br>His clinical interests include caring for patients with diseases of the gall bladder and bile duct, the liver and the pancreas as well as performing complex major operations for these conditions. He also performs general and laparoscopic operations and operations for hernias.",
+            "specialities": "s004",
+            "picture": "assets/images/d004.png",
+            "ages_treated": "Adults"
+        },
+        {
+            "doctorId": "d005",
+            "first_name": "Dr. Leonardo",
+            "last_name": "Alfredi",
+            "profile": "Medical Training: Qualified in medicine at St Thomas’s Hospital Medical School, London. Ophthalmic training: Moorfields Eye Hospital, St Thomas’s Hospital, National Hospital for Neurology & Neurosurgery and The Hospital for Sick Children, Great Ormond Street, London.",
+            "specialities": "s005",
+            "picture": "assets/images/d005.png",
+            "ages_treated": "Adults from 20 - 50"
+        },
+        {
+            "doctorId": "d006",
+            "first_name": "Dr. Carla",
+            "last_name": "Diadorena",
+            "profile": "Mrs Diadorena is a Consultant Ophthalmic Surgeon at the Western Eye Hospital, Imperial College Healthcare NHS trust, specialising in glaucoma and cataract surgery.</br> Mrs Diadorena is an author for the Emerging Laser and Surgical Treatments for Glaucoma in a newly developed national website developed by the Royal College of Ophthalmologists in collaboration with e-Learning for Healthcare.",
+            "specialities": "s001",
+            "picture": "assets/images/d006.png",
+            "ages_treated": "Adults from 20 - 40"
+        },
+        {
+            "doctorId": "d007",
+            "first_name": "Dr. Stefano",
+            "last_name": "Brivido",
+            "profile": "Stefano Brivido trained at The University of Cambridge School of Clinical Medicine (Trinity College). He spent two years in research at Yale University, he returned to his training a registrar in Manchester and a Senior Registrar in London. Stefano then became a Resident Surgical officer at St Mark's Hospital and was honoured to be appointed as a Consultant Colorectal Surgeon at St Mark's in 1999.",
+            "specialities": "s002",
+            "picture": "assets/images/d007.png",
+            "ages_treated": "Adults"
+        },
+        {
+            "doctorId": "d008",
+            "first_name": "Dr. Carlos",
+            "last_name": "Bianchi",
+            "profile": "Dr Binchi has lectured on liver disease nationally and internationally at Hepatology and Gastroenterology conferences, including state of the art and invited presentations. He is the lead author on the National guidelines for biliary cancer and was on the European panel for the International guidelines.",
+            "specialities": "s003",
+            "picture": "assets/images/d008.png",
+            "ages_treated": "Adults from 30"
+        },
+        {
+            "doctorId": "d009",
+            "first_name": "Dr. Gretta",
+            "last_name": "Moore",
+            "profile": "Dr Moore holds an Honorary Clinical Senior Lecturer position at Barts and the London School of Medicine and Dentistry, and is a principal investigator on multi-centre clinical trials in treatments for advanced liver disease.</br> Her research has previously focused on the role of stem cells in liver fibrosis and regeneration, and on the interaction between blood clotting abnormalities and liver disease. She publishes and lectures widely, and sits on the writing group of the national guidelines on the use of blood products.",
+            "specialities": "s004",
+            "picture": "assets/images/d009.png",
+            "ages_treated": "Adults from 20"
+        },
+        {
+            "doctorId": "d010",
+            "first_name": "Dr. Dalia",
+            "last_name": "Rivals",
+            "profile": "Dalia Rivals is a consultant ophthalmic surgeon at Imperial College Healthcare NHS Trust with specialist interests in Glaucoma, Cataract surgery and common red eye conditions such as blepharitis and conjunctivitis. </br>Her expertise include bespoke cataract surgery, glaucoma laser treatments, minimally invasive and penetrating glaucoma surgery. She qualified in medicine from the University of Bristol in 1999, winning the Gold Medal and Suple prizes for medicine and surgery.",
+            "specialities": "s005",
+            "picture": "assets/images/d010.png",
+            "ages_treated": "Adults from 20 - 40"
+        }
+]
+
